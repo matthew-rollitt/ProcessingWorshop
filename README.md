@@ -14,6 +14,10 @@ Processing installed and an inquisitive mind
 Give examples
 ```
 
+
+![alt text]https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg
+
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
