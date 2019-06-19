@@ -33,10 +33,8 @@ End with an example of getting some data out of the system or using it for a lit
 
 # Exercise 2
 
-
-```
 ![alt text](/Exercises/Images/exercise2.png)![alt text](/Exercises/Images/exercise2goal.png)
-```
+
 ### And coding style tests
 
 Explain what these tests test and why
