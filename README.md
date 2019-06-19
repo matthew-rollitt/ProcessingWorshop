@@ -43,7 +43,7 @@ Explain what these tests test and why
 Give an example
 ```
 ![alt text](/Exercises/Images/exercise2.png)
-![alt text](/Exercises/Images/exercise2answer.png)
+![alt text](/Exercises/Images/exercise2goal.png)
 
 ### And coding style tests
 
