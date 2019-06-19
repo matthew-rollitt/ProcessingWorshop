@@ -10,14 +10,17 @@ Let's make awesome stuff!
 
 ### Prerequisites
 
-[Processing](https://processing.org/) and an *inquisitive mind*
+[Processing](https://processing.org/) and an **inquisitive mind**
 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Is processing 3.0+ installed? 
 
-Say what the step will be
+if not click here 
+	[Processing](https://processing.org/download) 
+else 	
+	you may begin the workshop! 
 
 ```
 Give the example
@@ -44,7 +47,7 @@ Give an example
 ```
 
 ## Challenge for experts 
-
+n
 Add additional notes about how to deploy this on a live system
 
 ## Built With
@@ -69,6 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to everyone who came along
+* Thanks to all the volunteers who came along
