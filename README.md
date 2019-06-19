@@ -38,7 +38,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 For the second example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
-Please download to start the exercise [Loops](/Exercises/Loops/loops.pde)
+Please download to start the exercise [Loops](/Exercises/Loops/Loops.pde)
 
 ![alt text](/Exercises/Images/exercise2.png)
 ![alt text](/Exercises/Images/exercise2goal.png)
