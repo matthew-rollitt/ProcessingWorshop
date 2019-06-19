@@ -26,9 +26,10 @@ else
 
 For the the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
-Please download the first PDE to start the exercise ![alt text](/Exercises/Hello_world/Hello_world.pde)
+Please download the first PDE to start the exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
 What we are after
+
 ![alt text](/Exercises/Images/exercise1.png)
 
 End with an example of getting some data out of the system or using it for a little demo
