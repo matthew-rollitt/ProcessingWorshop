@@ -44,8 +44,8 @@ Explain what these tests test and why
 Give an example
 ```
 ![alt text](https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg)
-![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.56.43 PM.png?raw=true "ex1")
-![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.50.38 PM.png?raw=true "ex1 answer")
+![Image description](Exercises/Images/Screen Shot 2019-06-16 at 11.56.43 PM.png)
+![Image description](Exercises/Images/Screen Shot 2019-06-16 at 11.50.38 PM.png)
 
 ### And coding style tests
 
@@ -61,9 +61,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Processing](https://processing.org/) - The web framework used
 
 ## Contributinga
 
@@ -75,7 +73,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Matthew Rollitt** - *Initial work*
+* **Matthew Rollitt**
 
 ## License
 
