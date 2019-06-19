@@ -6,12 +6,11 @@ Introduction to processing and programming
 
 Let's make awesome stuff! 
 
+![alt text](https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg)
+
 ### Prerequisites
 
-[Processing](https://processing.org/) and an inquisitive mind
-
-
-![alt text](https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg)
+[Processing](https://processing.org/) and an *inquisitive mind*
 
 
 ### Installing
@@ -43,9 +42,8 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-![alt text](https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg)
-![Image description](Exercises/Images/Screen Shot 2019-06-16 at 11.56.43 PM.png)
-![Image description](Exercises/Images/Screen Shot 2019-06-16 at 11.50.38 PM.png)
+![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.56.43 PM.png)
+![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.50.38 PM.png)
 
 ### And coding style tests
 
