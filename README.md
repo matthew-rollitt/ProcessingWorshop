@@ -24,7 +24,7 @@ Say what the step will be
 Give the example
 ```
 
-And repeat
+# Exercise 1 
 
 ```
 until finished
@@ -32,7 +32,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+# Exercise 2
 
 Explain how to run the automated tests for this system
 
@@ -43,6 +43,9 @@ Explain what these tests test and why
 ```
 Give an example
 ```
+![alt text](https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg)
+![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.56.43 PM.png?raw=true "ex1")
+![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.50.38 PM.png?raw=true "ex1 answer")
 
 ### And coding style tests
 
