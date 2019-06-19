@@ -22,30 +22,24 @@ if not click here
 else 	
 	you may begin the workshop! 
 
-```
-Give the example
-```
+# Exercise 1: Intro and Drawing shapes
 
-# Exercise 1 
+For the the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
-```
-until finished
-```
+Please download the first PDE to start the exercise ![alt text](/Exercises/Hello_world/Hello_world.pde)
+
+What we are after
+![alt text](/Exercises/Images/exercise1.png)
 
 End with an example of getting some data out of the system or using it for a little demo
 
-# Exercise 2
+# Exercise 2: Drawing with for loops
 
-![alt text](/Exercises/Images/exercise2.png)![alt text](/Exercises/Images/exercise2goal.png)
+![alt text](/Exercises/Images/exercise2.png)
+![alt text](/Exercises/Images/exercise2goal.png)
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
+# Exercise 4: Classes and arrays
+ 
 ## Challenge for experts 
 n
 Add additional notes about how to deploy this on a live system
