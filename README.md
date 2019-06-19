@@ -42,8 +42,10 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.56.43 PM.png)
-![alt text](Exercises/Images/Screen Shot 2019-06-16 at 11.50.38 PM.png)
+![alt text](ProcessingWorshop/Exercises/Images/exercise2.png)
+![alt text](/Exercises/Images/exercise2.png)
+![alt text](Exercises/Images/exercise2.png)
+![alt text](/Images/exercise2.png)
 
 ### And coding style tests
 
