@@ -42,10 +42,8 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-![alt text](ProcessingWorshop/Exercises/Images/exercise2.png)
 ![alt text](/Exercises/Images/exercise2.png)
-![alt text](Exercises/Images/exercise2.png)
-![alt text](/Images/exercise2.png)
+![alt text](Exercises/Images/exercise2answer.png)
 
 ### And coding style tests
 
