@@ -16,21 +16,23 @@ void draw()
 {
   /**TODO** 
    Change the background to white by changing the values in the fill method. */
-  fill(0, 20); // https://processing.org/reference/fill_.html
+  fill(0, 10); // https://processing.org/reference/fill_.html
   rect(0+width/2, height/2, 550, width);
 
   // Ellipse colour   
-  fill(30, CurrentFrame/2, CurrentFrame*2);
+  fill(CurrentFrame/4, CurrentFrame/2, CurrentFrame*2);
 
-  /** TODO **
-   Lets substitute 250 in the ellipse bellow for the 'i' this will be used in the for loop
+  /** TODO **t
+   In the ellipse bellow we want to replace the Y value (250) for an 'int' that is inside a for loop
    https://processing.org/reference/for.html
    for(setting our y value; condition how large you want the y value to get;how much to increase our y value)
    {
    
    }
    */
-  ellipse(CurrentFrame, 250, random(5, 30), random(5, 30));
+
+    ellipse(CurrentFrame, 250, random(5, 30), random(5, 30));
+  
 
 
   /** DON'T TOUCH, unlesss you want to... 

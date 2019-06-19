@@ -28,6 +28,9 @@ void draw() {
   
   // Draws a grid on the screenc
   stroke(250, 50);
+  text("Mouse X= : "+mouseX, 10, 438);
+  text("Mouse Y= : "+mouseY, 10, 448);
+  fill(0, 102, 153);
   line(50, 0, 50, 450);
   line(100, 0, 100, 450);
   line(150, 0, 150, 450);
