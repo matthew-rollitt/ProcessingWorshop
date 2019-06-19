@@ -24,7 +24,7 @@ else
 
 # Exercise 1: Intro and Drawing shapes
 
-For the the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
+For the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
 Please download the first PDE to start the exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
@@ -36,13 +36,17 @@ End with an example of getting some data out of the system or using it for a lit
 
 # Exercise 2: Drawing with for loops
 
+For the second example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
+
+Please download to start the exercise [Loops](/Exercises/Loops/loops.pde)
+
 ![alt text](/Exercises/Images/exercise2.png)
 ![alt text](/Exercises/Images/exercise2goal.png)
 
 # Exercise 4: Classes and arrays
  
 ## Challenge for experts 
-n
+
 Add additional notes about how to deploy this on a live system
 
 ## Built With
