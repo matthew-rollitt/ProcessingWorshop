@@ -8,11 +8,7 @@ Let's make awesome stuff!
 
 ### Prerequisites
 
-Processing installed and an inquisitive mind
-
-```
-Give examples
-```
+[Processing](https://processing.org/) and an inquisitive mind
 
 
 ![alt text](https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg)
@@ -56,7 +52,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
+## Challenge for experts 
 
 Add additional notes about how to deploy this on a live system
 
