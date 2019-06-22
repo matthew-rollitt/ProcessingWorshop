@@ -34,24 +34,24 @@ What we are after:
 
 This demo is designed to get you comfortable with processing and how to draw a basic shape on the screen. This is the hello world of processing 
 
+For more information and more help view the [Getting started with procressing](https://processing.org/tutorials/gettingstarted/) web page
+
+
 # Exercise 2: Drawing with for loops
 
 For the second example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
 
-For more information and more help view the [Getting started with procressing](https://processing.org/tutorials/gettingstarted/) web page
-
-
-Please download to start the exercise [Loops](/Exercises/Loops/Loops.pde)
+Please copy this into a new sketch/pde to start this exercise [Loops](/Exercises/Loops/Loops.pde)
 
 ![alt text](/Exercises/Images/exercise2.png)
 ![alt text](/Exercises/Images/exercise2goal.png)
 
-# Exercise 4: Classes and arrays
+# Exercise 3: Classes and arrays
  
 ## Challenge for experts 
 
-Add additional notes about how to deploy this on a live system
+If you are after https://processing.org/examples/arrayobjects.html
 
 ## Built With
 
