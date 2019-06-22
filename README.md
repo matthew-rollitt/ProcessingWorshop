@@ -28,15 +28,19 @@ For the first example we are just going to introduce you to processing and do a 
 
 Please download the first PDE to start the exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
-What we are after
+What we are after:
 
 ![alt text](/Exercises/Images/exercise1.png)
 
-End with an example of getting some data out of the system or using it for a little demo
+This demo is designed to get you comfortable with processing and how to draw a basic shape on the screen. This is the hello world of processing 
 
 # Exercise 2: Drawing with for loops
 
 For the second example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
+
+
+For more information and more help view the [Getting started with procressing](https://processing.org/tutorials/gettingstarted/) web page
+
 
 Please download to start the exercise [Loops](/Exercises/Loops/Loops.pde)
 

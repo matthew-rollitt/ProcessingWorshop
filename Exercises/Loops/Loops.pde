@@ -34,7 +34,6 @@ void draw()
     ellipse(CurrentFrame, 250, random(5, 30), random(5, 30));
   
 
-
   /** DON'T TOUCH, unlesss you want to... 
    This animates the ellipse to  move accross the screen and then resets it back to 0.
    '%' this is called a module https://py.processing.org/reference/modulo.html */
