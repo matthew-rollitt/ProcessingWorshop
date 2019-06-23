@@ -69,14 +69,6 @@ If you are after
 
 Useful link https://processing.org/examples/arrayobjects.html
 
-## Built With
-
-* [Processing](https://processing.org/) - The web framework used
-
-## Authors
-
-* **Matthew Rollitt**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
