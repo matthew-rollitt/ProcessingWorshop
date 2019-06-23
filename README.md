@@ -33,7 +33,7 @@ I've added a few suggestions you can change like color, size, shapes and interac
 
 For more information and more help view the [Getting started with procressing](https://processing.org/tutorials/gettingstarted/) web page.
 
-How to draw on the canvas (https://processing.org/tutorials/drawing/)
+[How to draw on the canvas](https://processing.org/tutorials/drawing/)
 
 
 # Exercise 1: Intro and Drawing shapes
