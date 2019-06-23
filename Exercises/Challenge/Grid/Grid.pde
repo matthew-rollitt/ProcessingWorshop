@@ -8,7 +8,6 @@ void setup() {
   background(0);
   smooth();
   frameRate(1);
-  //noLoop();
 }
 
 void draw() {
