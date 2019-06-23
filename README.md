@@ -25,9 +25,14 @@ For the first example we are just going to introduce you to processing and do a 
 
 Please copy this into a new sketch/pde to start this exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
-Across all these sketches we have a few TODO with instructions  
+Across all these sketches we have a few TODO with instructions oh how to complete this exercise  
 ```
 	/** TODO please complete this exercise */
+```
+I've added a few suggestions you can change like color, size, shapes and interactions.
+
+```
+ /**  EXTRA */
 ```
 
 ![alt text](/Exercises/Images/exercise1.png)
