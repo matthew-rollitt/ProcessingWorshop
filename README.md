@@ -17,11 +17,12 @@ Let's make awesome stuff!
 
 Is processing 3.0+ installed? 
 
+```
 if not click here 
 	[Processing](https://processing.org/download) 
 else 	
 	you may begin the workshop! 
-
+```
 # Exercise 1: Intro and Drawing shapes
 
 For the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
