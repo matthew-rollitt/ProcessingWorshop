@@ -19,11 +19,7 @@ Is processing 3.0+ installed?
 
 If not click [here](https://processing.org/download) to download processing 
 
-# Exercise 1: Intro and Drawing shapes
-
-For the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
-
-Please copy this into a new sketch/pde to start this exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
+# Introduction 
 
 Across all these sketches we have a few TODO with instructions oh how to complete this exercise  
 ```
@@ -32,14 +28,23 @@ Across all these sketches we have a few TODO with instructions oh how to complet
 I've added a few suggestions you can change like color, size, shapes and interactions.
 
 ```
- /**  EXTRA */
+ 	/**  EXTRA cool stuff for awesome people */
 ```
+
+For more information and more help view the [Getting started with procressing](https://processing.org/tutorials/gettingstarted/) web page.
+
+How to draw on the canvas (https://processing.org/tutorials/drawing/)
+
+
+# Exercise 1: Intro and Drawing shapes
+
+For the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
+
+Please copy this into a new sketch/pde to start this exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
 ![alt text](/Exercises/Images/exercise1.png)
 
-This demo is designed to get you comfortable with processing and how to draw a basic shape on the screen. This is the hello world of processing 
-
-For more information and more help view the [Getting started with procressing](https://processing.org/tutorials/gettingstarted/) web page
+This demo is designed to get you comfortable with processing and how to draw a basic shape on the screen. This is the hello world of processing.
 
 
 # Exercise 2: Drawing with for loops
