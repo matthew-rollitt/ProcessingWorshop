@@ -19,8 +19,12 @@ void draw() {
       *Hint* check the ellipse page and check the syntax and parameters section
       
       https://processing.org/reference/ellipse_.html
-      https://processing.org/reference/mouseX.html    
-      https://processing.org/reference/mouseY.html
+      
+      you can use MouseX to control the X position for the ellipse
+      https://processing.org/reference/mouseX.html 
+      
+      You can use MouseY to control the Y position for the ellipse
+      https://processing.org/reference/mouseY.html 
    **/
   
   // TODO: Your code goes here 
