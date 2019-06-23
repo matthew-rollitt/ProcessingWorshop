@@ -1,9 +1,6 @@
 # Processing
 
 Introduction to processing and programming
-
-## Getting Started
-
 Let's make awesome stuff! 
 
 ![alt text](https://www.raspberrypi.org/app/uploads/2017/04/002_presSeries.jpg)
@@ -51,11 +48,16 @@ This demo is designed to get you comfortable with processing and how to draw a b
 
 For the second example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
+Useful link for this workshop https://processing.org/reference/for.html
 
 Please copy this into a new sketch/pde to start this exercise [Loops](/Exercises/Loops/Loops.pde)
 
+Starting:
 ![alt text](/Exercises/Images/exercise2.png)
+
+What we are after:
 ![alt text](/Exercises/Images/exercise2goal.png)
+
 
 # Exercise 3: Classes and arrays
  
