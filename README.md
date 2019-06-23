@@ -18,7 +18,7 @@ If not click [here](https://processing.org/download) to download processing
 
 # Introduction 
 
-Across all these sketches we have a few TODO with instructions oh how to complete this exercise  
+Across all these sketches we have a few TODO with instructions oh how to complete the exercise  
 ```
 	/** TODO please complete this exercise */
 ```
@@ -46,7 +46,7 @@ This demo is designed to get you comfortable with processing and how to draw a b
 
 # Exercise 2: Drawing with for loops
 
-For the second example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
+For the second example we are just going to show you how to program with for loops.
 
 Useful link for this workshop https://processing.org/reference/for.html
 
@@ -61,11 +61,18 @@ What we are after:
 ![alt text](/Exercises/Images/exercise2goal.png)
 
 
-# Exercise 3: Having fun with boxes
+# Exercise 3: Having fun with code
  
 ## Challenge for experts 
 
-Take one of the of the previous examples or the examples below and change something about them. I've added a few hints in the sketch you change. This is the open part of the exercise where you can just play around with processing.
+Take one of the of the previous examples or one of the examples below and change something about them. I've added a few hints in the sketches with ideas. This is the open part of the exercise where you can just play around with processing.
+
+[Tile sketch](/Exercises/Exercises/Challenge/Grid/Grid.pde)
+[3D sketch](/Exercises/Exercises/RotatePushPop/RotatePushPop/.pde)
+[Recursion sketch](/Exercises/Exercises/Recursion/Recursion/.pde)
+[Game of Life sketch](/Exercises/Exercises/Challenge/GameOfLife/GameOfLife.pde)
+
+If you want to check out more examples go to the file > examples under the drop down menu
 
 ![alt text](/Exercises/Images/results1.png)
 
