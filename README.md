@@ -17,19 +17,18 @@ Let's make awesome stuff!
 
 Is processing 3.0+ installed? 
 
-```
-if not click here 
-	[Processing](https://processing.org/download) 
-else 	
-	you may begin the workshop! 
-```
+If not click [here](https://processing.org/download) to download processing 
+
 # Exercise 1: Intro and Drawing shapes
 
 For the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
 Please copy this into a new sketch/pde to start this exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
-What we are after:
+Across all these sketches we have a few TODO with instructions  
+```
+	/** TODO please complete this exercise */
+```
 
 ![alt text](/Exercises/Images/exercise1.png)
 
