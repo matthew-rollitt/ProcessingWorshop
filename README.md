@@ -53,9 +53,11 @@ Useful link for this workshop https://processing.org/reference/for.html
 Please copy this into a new sketch/pde to start this exercise [Loops](/Exercises/Loops/Loops.pde)
 
 Starting:
+
 ![alt text](/Exercises/Images/exercise2.png)
 
 What we are after:
+
 ![alt text](/Exercises/Images/exercise2goal.png)
 
 
