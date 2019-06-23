@@ -68,8 +68,11 @@ What we are after:
 Take one of the of the previous examples or one of the examples below and change something about them. I've added a few hints in the sketches with ideas. This is the open part of the exercise where you can just play around with processing.
 
 [Tile sketch](/Exercises/Exercises/Challenge/Grid/Grid.pde)
+
 [3D sketch](/Exercises/Exercises/RotatePushPop/RotatePushPop/.pde)
+
 [Recursion sketch](/Exercises/Exercises/Recursion/Recursion/.pde)
+
 [Game of Life sketch](/Exercises/Exercises/Challenge/GameOfLife/GameOfLife.pde)
 
 If you want to check out more examples go to the file > examples under the drop down menu
