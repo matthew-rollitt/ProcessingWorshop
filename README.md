@@ -75,9 +75,9 @@ Take one of the of the previous examples or one of the examples below and change
 
 [Game of Life sketch](/Exercises/Exercises/Challenge/GameOfLife/GameOfLife.pde)
 
-If you want to check out more examples go to the file > examples under the drop down menu
-
 ![alt text](/Exercises/Images/results1.png)
+
+If you want to check out more examples go to the file > examples under the drop down menu
 
 Useful link https://processing.org/examples/arrayobjects.html
 
