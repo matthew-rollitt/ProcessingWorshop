@@ -61,7 +61,7 @@ What we are after:
 ![alt text](/Exercises/Images/exercise2goal.png)
 
 
-# Exercise 3: Classes and arrays
+# Exercise 3: Having fun with boxes
  
 ## Challenge for experts 
 
@@ -72,14 +72,6 @@ Useful link https://processing.org/examples/arrayobjects.html
 ## Built With
 
 * [Processing](https://processing.org/) - The web framework used
-
-## Contributinga
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
@@ -92,4 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thanks to everyone who came along
-* Thanks to all the volunteers who came along
+* Thanks to all the volunteers who helped out
+* Thank you VUWIT organising this event
