@@ -67,7 +67,7 @@ What we are after:
 
 Take one of the of the previous examples or the examples below and change something about them. I've added a few hints in the sketch you change. This is the open part of the exercise where you can just play around with processing.
 
-![alt text](/Exercises/Images/results.png)
+![alt text](/Exercises/Images/results1.png)
 
 Useful link https://processing.org/examples/arrayobjects.html
 
