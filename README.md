@@ -26,7 +26,7 @@ else
 
 For the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
 
-Please download the first PDE to start the exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
+Please copy this into a new sketch/pde to start this exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
 What we are after:
 
@@ -51,7 +51,9 @@ Please copy this into a new sketch/pde to start this exercise [Loops](/Exercises
  
 ## Challenge for experts 
 
-If you are after https://processing.org/examples/arrayobjects.html
+If you are after 
+
+Useful link https://processing.org/examples/arrayobjects.html
 
 ## Built With
 
