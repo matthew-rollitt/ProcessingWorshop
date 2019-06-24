@@ -22,7 +22,7 @@ void draw()
   // Ellipse colour   
   fill(CurrentFrame/4, CurrentFrame/2, CurrentFrame*2);
 
-  /** TODO **t
+  /** TODO **
    In the ellipse bellow we want to replace the Y value (250) for an 'int' that is inside a for loop
    https://processing.org/reference/for.html
    for(setting our y value; condition how large you want the y value to get;how much to increase our y value)
