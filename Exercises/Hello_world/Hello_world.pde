@@ -12,11 +12,12 @@ void setup() {
 void draw() {
   fill(0, 50);
   rect(0, 0, 450, 450);
-
+  
+  /**  EXTRA change my colour https://processing.org/reference/fill_.html */
   fill(150, 255, 40);
-  /** TODO: draw circle here and use your mouse to move the ellipse 
-      you'll need to use the 3 links below for this exercise.
-      *Hint* check the ellipse page and check the syntax and parameters section
+  /** TODO: draw an ellipse here and use your mouse to move the ellipse around the canvas 
+      you'll need to use the 4 links below for this exercise.
+      **Hint** check the ellipse page and check the syntax and parameters section for help
       
       https://processing.org/reference/ellipse_.html
       
@@ -25,11 +26,19 @@ void draw() {
       
       You can use MouseY to control the Y position for the ellipse
       https://processing.org/reference/mouseY.html 
+      
+      You can use the 4 decleared variables below for your ellipse's parameters  
+      https://processing.org/examples/variables.html
    **/
-  
+   
+  int xPositionOfEllipse = 20; // This is called setting a variable, it's used for giving a word a value. 
+  int yPositionOfEllipse = 20;
+  int widthOfEllipse = 50;
+  int heightOfEllipse = 50;
   // TODO: Your code goes here 
   
-  
+
+
   // Draws a grid on the screenc
   stroke(250, 50);
   text("Mouse X= : "+mouseX, 10, 438);
