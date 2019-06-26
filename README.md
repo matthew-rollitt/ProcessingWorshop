@@ -18,17 +18,17 @@ If not click [here](https://processing.org/download) to download processing
 
 # Introduction 
 
-Across all these sketches we have a few TODO with instructions oh how to complete the exercise  
+Across all these sketches we have a few TODOs with instructions on how to complete the exercise  
 ```
 	/** TODO please complete this exercise */
 ```
-I've added a few suggestions you can change like color, size, shapes and interactions.
+I've added a few suggestions you can change color, size, shapes and interactions.
 
 ```
  	/**  EXTRA cool stuff for awesome people */
 ```
 
-For more information and more help view the [Getting started with procressing](https://processing.org/tutorials/gettingstarted/) web page.
+For more information and more help view the [Getting started with processing](https://processing.org/tutorials/gettingstarted/) web page.
 
 [How to draw on the canvas](https://processing.org/tutorials/drawing/)
 
