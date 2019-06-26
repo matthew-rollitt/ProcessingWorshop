@@ -35,7 +35,7 @@ For more information and more help view the [Getting started with processing](ht
 
 # Exercise 1: Intro and Drawing shapes
 
-For the first example we are just going to introduce you to processing and do a quick exercise to introduce you to programming. 
+For the first example we are going to introduce you to processing and then do a quick exercise to introduce you to programming. 
 
 Please copy this into a new sketch/pde to start this exercise [Hello world](/Exercises/Hello_world/Hello_world.pde)
 
@@ -46,7 +46,7 @@ This demo is designed to get you comfortable with processing and how to draw a b
 
 # Exercise 2: Drawing with for loops
 
-For the second example we are just going to show you how to program with for loops.
+For the second example we are going to show you how to program with for loops.
 
 Useful link for this workshop https://processing.org/reference/for.html
 
