@@ -31,7 +31,9 @@ void draw() {
       https://processing.org/examples/variables.html
    **/
    
-  int xPositionOfEllipse = 20; // This is called setting a variable, it's used for giving a word a value. 
+   // This is called setting a variable, it's used for saving a value to be used later on.
+   // try using these variable to create your ellipse
+  int xPositionOfEllipse = 20;  
   int yPositionOfEllipse = 20;
   int widthOfEllipse = 50;
   int heightOfEllipse = 50;
