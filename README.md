@@ -65,7 +65,7 @@ What we are after:
  
 ## Challenge for experts 
 
-Take one of the of the previous examples or one of the examples below and change something about them. I've added a few hints in the sketches with ideas. This is the open part of the exercise where you can just play around with processing.
+Take one of the previous examples or one of the examples below and change something about them or try the [Tile exercise](/Exercises/Challenge/Grid/Grid.pde) that introduces arrays and objects. I've added a few hints in the sketches with ideas. This is the open part of the exercise where you can just play around with processing.
 
 [Tile sketch](/Exercises/Challenge/Grid/Grid.pde)
 
