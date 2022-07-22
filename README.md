@@ -30,7 +30,7 @@ I've added a few suggestions you can change color, size, shapes and interactions
 
 For more information and more help view the [Getting started with processing](https://processing.org/tutorials/gettingstarted/) web page.
 
-[How to draw on the canvas](https://processing.org/tutorials/drawing/)
+[How to draw on the canvas](https://processing.org/reference/ellipse_.html)
 
 
 # Exercise 1: Intro and Drawing shapes
